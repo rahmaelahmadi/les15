@@ -1,0 +1,94 @@
+header{
+    background-color: #d1008f8b;
+    color :black;
+    width:100%;
+    height: 250px;
+}
+    body{
+    padding:5px 5px 5px 5px;
+    }
+    footer{
+    background-color: #d1008f8b;
+    color: black;
+    width:100%;
+    height:50px;
+    padding:5px 5px 5px 5px;   
+}
+id index{   
+    color:antiquewhite;
+    text-decoration: aquamarine;
+}
+li{
+display:inline-block;
+height: 22px;
+width: 100px;
+padding: 12px;
+text-align: center;
+color:black;
+border-left: 10px;
+border-right: 10px;
+background-color: antiquewhite;
+}
+li:hover{
+    background-color: aqua;
+    border-style:pink;
+}
+id mijncv{
+    color:antiquewhite;
+    text-decoration:aquamarine;
+}
+li{
+display:inline-block;
+height: 22px;
+width: 100px;
+padding: 15px;
+text-align: center;
+color:black;
+border-left: 10px;
+border-right: 10px;
+background-color:antiquewhite;
+}
+li:hover{
+    background-color:aqua;
+    border-style: pink;
+}
+id contact{
+    color:antiquewhite;
+    text-decoration: aquamarine;
+}
+li{
+display:inline-block;
+height: 22px;
+width: 100px;
+padding: 15px;
+text-align: center;
+color:black;
+border-left: 10px;
+border-right: 10px;
+background-color: antiquewhite;
+}
+li:hover{
+    background-color:aqua;
+    border-style: pink;
+}
+table{
+    border-collapse: collapse;
+}
+td, th{
+    padding:10px 25px 
+}
+ input[type="text"], input[type="email"], textarea, button{
+    display: block;
+    margin: 15px 0px;
+    width: 500px;
+    box-sizing: border-box;
+}
+textarea{
+    height: 120px;
+    padding: 5px 5px;
+}
+button:active{
+    background-color: pink;
+    color:black;
+    border-radius: 5px;
+}
